@@ -23,6 +23,7 @@ body {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+	display: flex;
 }
 
 .nav__item {
@@ -51,6 +52,7 @@ body {
 .aside {
 	flex-basis: 20%;
 	margin-bottom: 20px;
+	margin-right: 5%;
 }
 
 .section__title {
